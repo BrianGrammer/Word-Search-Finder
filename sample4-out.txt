@@ -1,0 +1,67 @@
+assig3 > java Assig3
+Please enter grid filename:
+sample4.txt
+t h x x x x x x 
+x i s x x x x x 
+x x h a s x x x 
+x x x x n o x x 
+x x x x x s x x 
+o i t u l o x x 
+n s x x x x x x 
+x x x x x x x x 
+
+Please enter phrase (sep. by single spaces):
+this has no solutions
+Looking for: this has no solutions
+containing 4 words 
+The phrase: this has no solutions
+was not found
+
+Please enter phrase (sep. by single spaces):
+this
+Looking for: this
+containing 1 words 
+The phrase: this
+was not found
+
+Please enter phrase (sep. by single spaces):
+has
+Looking for: has
+containing 1 words 
+The phrase: has
+was found:
+has: (2,2) to (2,4)
+t h x x x x x x 
+x i s x x x x x 
+x x H A S x x x 
+x x x x n o x x 
+x x x x x s x x 
+o i t u l o x x 
+n s x x x x x x 
+x x x x x x x x 
+
+Please enter phrase (sep. by single spaces):
+no
+Looking for: no
+containing 1 words 
+The phrase: no
+was found:
+no: (3,4) to (3,5)
+t h x x x x x x 
+x i s x x x x x 
+x x h a s x x x 
+x x x x N O x x 
+x x x x x s x x 
+o i t u l o x x 
+n s x x x x x x 
+x x x x x x x x 
+
+Please enter phrase (sep. by single spaces):
+solutions
+Looking for: solutions
+containing 1 words 
+The phrase: solutions
+was not found
+
+Please enter phrase (sep. by single spaces):
+
